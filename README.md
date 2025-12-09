@@ -1,10 +1,10 @@
-# inst414
+# inst414 Final Project: Housing Prices 
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-inst414 project
+inst414 project, based on the prices of housing, what features homes have, and what features/factors influence the prices of housing (location, number of bedrooms, area of property, etc). The project demonstrates visualizations of different factors in the home, specifically preferred area, and goes into machine learning for the property, predicting whether specific homes are priced higher due to the location that the home is in. 
 
 ## Project Organization
 
